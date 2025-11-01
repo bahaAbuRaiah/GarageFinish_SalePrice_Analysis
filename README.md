@@ -1,2 +1,5 @@
-# GarageFinish_SalePrice_Analysis
-Statistical analysis and multiple regression on SalePrice vs GarageFinish categories.
+## GarageFinish vs SalePrice Analysis
+- Statistical test (ANOVA + Post-hoc)
+- Multiple Linear Regression
+- Significance level: 5%
+- Tools: Python, pandas, scipy, statsmodels
